@@ -1,0 +1,11 @@
+Package: enigma2-plugin-bootlogos-glow
+Version: 1.0
+Description: Glow Bootlogo
+Section: bootlogos
+Priority: optional
+Maintainer: XXX
+Architecture: sh4
+OE: Glow Bootlogo
+Homepage: http://www.hdmedia-universe.com
+Depends:
+Source: http://www.hdmedia-universe.com

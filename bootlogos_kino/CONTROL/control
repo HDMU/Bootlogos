@@ -1,0 +1,11 @@
+Package: enigma2-plugin-bootlogos-kino
+Version: 1.0
+Description: Kino Bootlogo
+Section: bootlogos
+Priority: optional
+Maintainer: XXX
+Architecture: sh4
+OE: Kino Bootlogo
+Homepage: http://www.hdmedia-universe.com
+Depends:
+Source: http://www.hdmedia-universe.com

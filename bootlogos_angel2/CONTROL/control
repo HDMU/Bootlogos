@@ -1,0 +1,11 @@
+Package: enigma2-plugin-bootlogos-angel2
+Version: 1.0
+Description: Angel2 Bootlogo
+Section: bootlogos
+Priority: optional
+Maintainer: XXX
+Architecture: sh4
+OE: Angel2 Bootlogo
+Homepage: http://www.hdmedia-universe.com
+Depends:
+Source: http://www.hdmedia-universe.com

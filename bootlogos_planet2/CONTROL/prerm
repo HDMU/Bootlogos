@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "removing bootlogo planet2"
+exit 0

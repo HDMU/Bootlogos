@@ -1,0 +1,11 @@
+Package: enigma2-plugin-bootlogos-access
+Version: 1.0
+Description: Access Bootlogo
+Section: bootlogos
+Priority: optional
+Maintainer: XXX
+Architecture: sh4
+OE: Access Bootlogo
+Homepage: http://www.hdmedia-universe.com
+Depends:
+Source: http://www.hdmedia-universe.com

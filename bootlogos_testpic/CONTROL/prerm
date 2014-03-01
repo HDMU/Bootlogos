@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "removing bootlogo testpic"
+exit 0

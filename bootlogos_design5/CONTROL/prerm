@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "removing bootlogo design5"
+exit 0

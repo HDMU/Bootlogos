@@ -1,0 +1,11 @@
+Package: enigma2-plugin-bootlogos-impact
+Version: 1.0
+Description: Impact Bootlogo
+Section: bootlogos
+Priority: optional
+Maintainer: XXX
+Architecture: sh4
+OE: Impact Bootlogo
+Homepage: http://www.hdmedia-universe.com
+Depends:
+Source: http://www.hdmedia-universe.com

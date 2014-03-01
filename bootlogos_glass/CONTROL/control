@@ -1,0 +1,11 @@
+Package: enigma2-plugin-bootlogos-glass
+Version: 1.0
+Description: Glass Type Bootlogo
+Section: bootlogos
+Priority: optional
+Maintainer: macbest
+Architecture: sh4
+OE: Glass Type Bootlogo
+Homepage: http://www.hdmedia-universe.com
+Depends:
+Source: http://www.hdmedia-universe.com

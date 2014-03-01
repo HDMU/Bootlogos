@@ -1,0 +1,20 @@
+#!/bin/sh
+echo "successfully removed"
+mv /boot/bootlogo.mvi.planet2 /boot/bootlogo.mvi
+echo ""
+echo "Stelle Original Bootlogo wieder her....."
+echo ""
+
+if [ -f /boot/bootvideo.mkv.bak ]; then
+	mv /boot/bootvideo.mkv.bak /boot/bootvideo.mkv
+	echo ""
+	echo "Stelle Original Bootvideo wieder her..."
+	echo ""
+else
+	echo ""
+	echo "Kein Bootvideo gefunden...skip"
+	echo ""
+fi
+echo "syncing disk"
+sync
+exit 0

@@ -1,0 +1,11 @@
+Package: enigma2-plugin-bootlogos-bluestars
+Version: 1.0
+Description: BlueStars Bootlogo
+Section: bootlogos
+Priority: optional
+Maintainer: XXX
+Architecture: sh4
+OE: BlueStars Bootlogo
+Homepage: http://www.hdmedia-universe.com
+Depends:
+Source: http://www.hdmedia-universe.com

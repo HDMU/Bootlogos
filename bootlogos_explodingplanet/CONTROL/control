@@ -1,0 +1,11 @@
+Package: enigma2-plugin-bootlogos-explodingplanet
+Version: 1.0
+Description: ExplodingPlanet Bootlogo
+Section: bootlogos
+Priority: optional
+Maintainer: XXX
+Architecture: sh4
+OE: ExplodingPlanet Bootlogo
+Homepage: http://www.hdmedia-universe.com
+Depends:
+Source: http://www.hdmedia-universe.com

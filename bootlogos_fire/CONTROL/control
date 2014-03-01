@@ -1,0 +1,11 @@
+Package: enigma2-plugin-bootlogos-fire
+Version: 1.0
+Description: Fire Bootlogo
+Section: bootlogos
+Priority: optional
+Maintainer: XXX
+Architecture: sh4
+OE: Fire Bootlogo
+Homepage: http://www.hdmedia-universe.com
+Depends:
+Source: http://www.hdmedia-universe.com

@@ -1,0 +1,11 @@
+Package: enigma2-plugin-bootlogos-kosmos
+Version: 1.0
+Description: Kosmos Bootlogo
+Section: bootlogos
+Priority: optional
+Maintainer: macbest
+Architecture: sh4
+OE: Kosmos Bootlogo
+Homepage: http://www.hdmedia-universe.com
+Depends:
+Source: http://www.hdmedia-universe.com

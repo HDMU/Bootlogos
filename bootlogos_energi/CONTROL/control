@@ -1,0 +1,11 @@
+Package: enigma2-plugin-bootlogos-energi
+Version: 1.0
+Description: Energi Bootlogo
+Section: bootlogos
+Priority: optional
+Maintainer: macbest
+Architecture: sh4
+OE: energi Bootlogo
+Homepage: http://www.hdmedia-universe.com
+Depends:
+Source: http://www.hdmedia-universe.com

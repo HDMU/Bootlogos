@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "removing bootlogo ice"
+exit 0

@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "removing bootlogo angel2"
+exit 0

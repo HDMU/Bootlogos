@@ -1,0 +1,11 @@
+Package: enigma2-plugin-bootlogos-night
+Version: 1.0
+Description: Night Bootlogo
+Section: bootlogos
+Priority: optional
+Maintainer: XXX
+Architecture: sh4
+OE: Night Bootlogo
+Homepage: http://www.hdmedia-universe.com
+Depends:
+Source: http://www.hdmedia-universe.com

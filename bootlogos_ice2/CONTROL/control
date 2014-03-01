@@ -1,0 +1,11 @@
+Package: enigma2-plugin-bootlogos-ice2
+Version: 1.0
+Description: Ice2 Bootlogo
+Section: bootlogos
+Priority: optional
+Maintainer: macbest
+Architecture: sh4
+OE: Ice2 Bootlogo
+Homepage: http://www.hdmedia-universe.com
+Depends:
+Source: http://www.hdmedia-universe.com

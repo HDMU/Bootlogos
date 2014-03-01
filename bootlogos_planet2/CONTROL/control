@@ -1,0 +1,11 @@
+Package: enigma2-plugin-bootlogos-planet2
+Version: 1.0
+Description: Planet2 Bootlogo
+Section: bootlogos
+Priority: optional
+Maintainer: macbest
+Architecture: sh4
+OE: Planet2 Bootlogo
+Homepage: http://www.hdmedia-universe.com
+Depends:
+Source: http://www.hdmedia-universe.com

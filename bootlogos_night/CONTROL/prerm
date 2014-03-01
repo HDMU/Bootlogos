@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "removing bootlogo night"
+exit 0

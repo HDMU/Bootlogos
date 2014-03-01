@@ -1,0 +1,10 @@
+Package: enigma2-plugin-bootlogos-supernova
+Version: 1.0
+Description: Supernova Bootlogo
+Section: bootlogos
+Priority: optional
+Maintainer: XXX
+Architecture: sh4
+OE: Supernova Bootlogo
+Homepage: http://www.hdmedia-universe.com
+Source: http://www.hdmedia-universe.com

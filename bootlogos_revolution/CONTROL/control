@@ -1,0 +1,11 @@
+Package: enigma2-plugin-bootlogos-revolution
+Version: 1.0
+Description: Revolution Bootlogo by JKM73
+Section: bootlogos
+Priority: optional
+Maintainer: macbest
+Architecture: sh4
+OE: Revolution Bootlogo by JKM73
+Homepage: http://www.hdmedia-universe.com
+Depends:
+Source: http://www.hdmedia-universe.com

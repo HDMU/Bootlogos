@@ -1,0 +1,15 @@
+#!/bin/sh
+echo "installing bootlogo tux ..."
+mv /boot/bootlogo.mvi /boot/bootlogo.mvi.tux
+if [ -f /boot/bootvideo.mkv ]; then
+	mv /boot/bootvideo.mkv /boot/bootvideo.mkv.bak
+	echo ""
+	echo "Sichere Bootvideo..."
+	echo ""
+else
+	echo ""
+	echo "Kein Bootvideo gefunden...skip"
+	echo""
+fi
+
+exit 0
