@@ -4,7 +4,7 @@ Description: Glass Type Bootlogo
 Section: bootlogos
 Priority: optional
 Maintainer: macbest
-Architecture: sh4
+Architecture: all
 OE: Glass Type Bootlogo
 Homepage: http://www.hdmedia-universe.com
 Depends:

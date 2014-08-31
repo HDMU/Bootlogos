@@ -4,7 +4,7 @@ Description: Angel2 Bootlogo
 Section: bootlogos
 Priority: optional
 Maintainer: XXX
-Architecture: sh4
+Architecture: all
 OE: Angel2 Bootlogo
 Homepage: http://www.hdmedia-universe.com
 Depends:

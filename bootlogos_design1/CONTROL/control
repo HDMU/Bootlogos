@@ -4,7 +4,7 @@ Description: Design Bootlogo by xup12
 Section: bootlogos
 Priority: optional
 Maintainer: macbest
-Architecture: sh4
+Architecture: all
 OE: Design Bootlogo by xup12
 Homepage: http://www.hdmedia-universe.com
 Depends:

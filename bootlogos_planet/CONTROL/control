@@ -4,7 +4,7 @@ Description: Planet Bootlogo
 Section: bootlogos
 Priority: optional
 Maintainer: XXX
-Architecture: sh4
+Architecture: all
 OE: Planet Bootlogo
 Homepage: http://www.hdmedia-universe.com
 Depends:

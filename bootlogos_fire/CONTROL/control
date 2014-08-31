@@ -4,7 +4,7 @@ Description: Fire Bootlogo
 Section: bootlogos
 Priority: optional
 Maintainer: XXX
-Architecture: sh4
+Architecture: all
 OE: Fire Bootlogo
 Homepage: http://www.hdmedia-universe.com
 Depends:

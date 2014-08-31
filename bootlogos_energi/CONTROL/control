@@ -4,7 +4,7 @@ Description: Energi Bootlogo
 Section: bootlogos
 Priority: optional
 Maintainer: macbest
-Architecture: sh4
+Architecture: all
 OE: energi Bootlogo
 Homepage: http://www.hdmedia-universe.com
 Depends:

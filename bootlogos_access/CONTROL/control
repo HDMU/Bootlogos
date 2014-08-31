@@ -4,7 +4,7 @@ Description: Access Bootlogo
 Section: bootlogos
 Priority: optional
 Maintainer: XXX
-Architecture: sh4
+Architecture: all
 OE: Access Bootlogo
 Homepage: http://www.hdmedia-universe.com
 Depends:

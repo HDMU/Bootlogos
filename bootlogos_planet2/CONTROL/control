@@ -4,7 +4,7 @@ Description: Planet2 Bootlogo
 Section: bootlogos
 Priority: optional
 Maintainer: macbest
-Architecture: sh4
+Architecture: all
 OE: Planet2 Bootlogo
 Homepage: http://www.hdmedia-universe.com
 Depends:

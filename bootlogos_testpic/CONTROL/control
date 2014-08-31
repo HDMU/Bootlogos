@@ -4,7 +4,7 @@ Description: Testpic Bootlogo
 Section: bootlogos
 Priority: optional
 Maintainer: macbest
-Architecture: sh4
+Architecture: all
 OE: Testpic Bootlogo
 Homepage: http://www.hdmedia-universe.com
 Depends:

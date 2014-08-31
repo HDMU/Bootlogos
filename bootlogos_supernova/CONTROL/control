@@ -4,7 +4,7 @@ Description: Supernova Bootlogo
 Section: bootlogos
 Priority: optional
 Maintainer: XXX
-Architecture: sh4
+Architecture: all
 OE: Supernova Bootlogo
 Homepage: http://www.hdmedia-universe.com
 Source: http://www.hdmedia-universe.com
