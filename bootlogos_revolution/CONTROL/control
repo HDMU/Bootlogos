@@ -3,9 +3,8 @@ Version: 1.0
 Description: Revolution Bootlogo by JKM73
 Section: bootlogos
 Priority: optional
-Maintainer: macbest
+Maintainer: JKM73
 Architecture: all
-OE: Revolution Bootlogo by JKM73
 Homepage: http://www.hdmedia-universe.com
 Depends:
 Source: http://www.hdmedia-universe.com

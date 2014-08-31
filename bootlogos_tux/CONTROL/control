@@ -5,7 +5,6 @@ Section: bootlogos
 Priority: optional
 Maintainer: XXX
 Architecture: all
-OE: Tux Bootlogo
 Homepage: http://www.hdmedia-universe.com
 Depends:
 Source: http://www.hdmedia-universe.com
